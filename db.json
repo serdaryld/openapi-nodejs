@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "id": "PHYS202",
+      "name": "Modern Physics",
+      "semester": "Spring",
+      "department": "Physics"
+    },
+    {
+      "id": "CENG303",
+      "name": "Operating Systems",
+      "semester": "Fall",
+      "department": "Computer Engineering"
+    },
+    {
+      "id": "HIST214",
+      "name": "History of Medieval Europe",
+      "semester": "Fall",
+      "department": "History"
+    },
+    {
+      "id": "EC208",
+      "name": "Macroeconomics II",
+      "semester": "Spring",
+      "department": "Economics"
+    }
+  ]
+}
