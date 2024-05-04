@@ -1,7 +1,7 @@
 
 # OpenAPI Implementation With Node.js
 
-This is a simple API application developed using Express on Node.js, performing CRUD operations. It has been prepared and documented according to OpenAPI (Swagger) standards.
+This is a simple API application developed using Express on Node.js, which performs CRUD operations and simulates a course management system for a university. It has been prepared and documented according to OpenAPI (Swagger) standards.
 
 
 ## Prerequisites
@@ -39,3 +39,10 @@ If Docker is installed on your computer, to pull and run this image:
 <li><code>docker run -p 4000:4000 serdaryld/openapi-nodejs:1.0.0</code></li>
 <li>Then open <code>http://localhost:4000/api-docs</code> in your browser.</li>
 </ul>
+
+<br/>
+
+## License
+
+[MIT License](LICENSE)
+
